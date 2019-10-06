@@ -7,3 +7,6 @@ Data exploration between various types of information collected by US government
   3. Economic Data
   
 Source: Bureau of Economic Analysis, US Department of Commerce.
+
+Example:
+![temp.png](Output/temp.png)
